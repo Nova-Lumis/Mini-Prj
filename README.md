@@ -1,4 +1,4 @@
-# Mini-Prj
+# Mini Python Project and Implementation
 
 A collection of small Python console applications I wrote while learning.
 
